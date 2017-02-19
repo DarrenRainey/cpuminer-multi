@@ -48,6 +48,7 @@ Dependencies
 * libcurl			http://curl.haxx.se/libcurl/
 * jansson			http://www.digip.org/jansson/ (jansson is included in-tree)
 * openssl           https://www.openssl.org/
+* libssl-dev        https://packages.debian.org/jessie/libssl-dev
 
 Download
 ========
